@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private TMP_Text countText;
     [SerializeField] private TMP_Text incomeText;
     [SerializeField] private ManagerStoreUpgrade[] stores;
+    [SerializeField] private int updatesPerSecond = 5;
     [HideInInspector] public float count = 0;
     private float nextTimeCheck = 1;
     private float lastIncomeValue = 0;
@@ -22,7 +23,7 @@ public class GameManager : MonoBehaviour
         if (nextTimeCheck < Time.timeSinceLevelLoad)
         {
             IdleUpdate();
-            nextTimeCheck = Time.timeSinceLevelLoad + 1;
+            nextTimeCheck = Time.timeSinceLevelLoad + (1f / updatesPerSecond);
         }
 
     }
@@ -35,7 +36,7 @@ public class GameManager : MonoBehaviour
             store.UpdateUI();
         }
         lastIncomeValue = sum;
-        count += sum;
+        count += sum / updatesPerSecond;
         UpdateUI();
 
 
