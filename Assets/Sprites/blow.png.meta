@@ -1,0 +1,1859 @@
+fileFormatVersion: 2
+guid: 21a1361d805b9409b8fe4d42f7445971
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4056532442272033861
+    second: blow_0
+  - first:
+      213: 4503212152300030586
+    second: blow_1
+  - first:
+      213: 3844548119948500279
+    second: blow_2
+  - first:
+      213: 4128940091802714009
+    second: blow_3
+  - first:
+      213: 3804253846942272177
+    second: blow_4
+  - first:
+      213: 5585882229507976582
+    second: blow_5
+  - first:
+      213: -3371858200608705519
+    second: blow_6
+  - first:
+      213: 951015440539320365
+    second: blow_7
+  - first:
+      213: -1542612434658698098
+    second: blow_8
+  - first:
+      213: -1710370483824268956
+    second: blow_9
+  - first:
+      213: -5459417692829567788
+    second: blow_10
+  - first:
+      213: 3265253089730938785
+    second: blow_11
+  - first:
+      213: -3428870385419801067
+    second: blow_12
+  - first:
+      213: -4864315970609557261
+    second: blow_13
+  - first:
+      213: 5417153538944900781
+    second: blow_14
+  - first:
+      213: -8201959637627502660
+    second: blow_15
+  - first:
+      213: 4801004748858203216
+    second: blow_16
+  - first:
+      213: -8461605466504862804
+    second: blow_17
+  - first:
+      213: -5542668390949626993
+    second: blow_18
+  - first:
+      213: -8438490956171061396
+    second: blow_19
+  - first:
+      213: 8676674469003157908
+    second: blow_20
+  - first:
+      213: 633959798940345972
+    second: blow_21
+  - first:
+      213: -4210560881856013381
+    second: blow_22
+  - first:
+      213: -1890830772760050035
+    second: blow_23
+  - first:
+      213: 1299366875401284420
+    second: blow_24
+  - first:
+      213: -2404868794247370861
+    second: blow_25
+  - first:
+      213: 922323442179757460
+    second: blow_26
+  - first:
+      213: -6917841290901793555
+    second: blow_27
+  - first:
+      213: -9047013596892396530
+    second: blow_28
+  - first:
+      213: 3969971936358953814
+    second: blow_29
+  - first:
+      213: 7695383200023409168
+    second: blow_30
+  - first:
+      213: -5994946896267447392
+    second: blow_31
+  - first:
+      213: 1674184069173116842
+    second: blow_32
+  - first:
+      213: 6086883976599958122
+    second: blow_33
+  - first:
+      213: 4508947080476915147
+    second: blow_34
+  - first:
+      213: 7680083784628363068
+    second: blow_35
+  - first:
+      213: 5575030369782730442
+    second: blow_36
+  - first:
+      213: 8905249295531315858
+    second: blow_37
+  - first:
+      213: -486223436789250166
+    second: blow_38
+  - first:
+      213: 6006131543924638837
+    second: blow_39
+  - first:
+      213: -5458709593847341484
+    second: blow_40
+  - first:
+      213: 5871297848499293447
+    second: blow_41
+  - first:
+      213: 4189172567216577116
+    second: blow_42
+  - first:
+      213: -5823318311449826274
+    second: blow_43
+  - first:
+      213: 3920168858347031179
+    second: blow_44
+  - first:
+      213: 7786795718925412304
+    second: blow_45
+  - first:
+      213: -6742632221518553541
+    second: blow_46
+  - first:
+      213: 8831361918071588028
+    second: blow_47
+  - first:
+      213: -2206096459637525839
+    second: blow_48
+  - first:
+      213: 151542599422057951
+    second: blow_49
+  - first:
+      213: -2811460763984082249
+    second: blow_50
+  - first:
+      213: 2325271742188911759
+    second: blow_51
+  - first:
+      213: 8601391016338424680
+    second: blow_52
+  - first:
+      213: 430585632320763077
+    second: blow_53
+  - first:
+      213: 7505099625286960116
+    second: blow_54
+  - first:
+      213: -5345742645393637293
+    second: blow_55
+  - first:
+      213: 2986675600999204498
+    second: blow_56
+  - first:
+      213: -7340446643443027509
+    second: blow_57
+  - first:
+      213: -2040545759042172786
+    second: blow_58
+  - first:
+      213: 467987082657241985
+    second: blow_59
+  - first:
+      213: -452680538777791970
+    second: blow_60
+  - first:
+      213: -4952170096391066566
+    second: blow_61
+  - first:
+      213: -4281544167844716790
+    second: blow_62
+  - first:
+      213: -3528524985010171769
+    second: blow_63
+  - first:
+      213: -4595254268534552615
+    second: blow_64
+  - first:
+      213: 3194397042322244744
+    second: blow_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 3543
+        height: 3531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb317867c3d44b7c0800000000000000
+      internalID: -4056532442272033861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2162
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ac01ee79f9e7e30800000000000000
+      internalID: 4503212152300030586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2141
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d1d6355249a5530800000000000000
+      internalID: 3844548119948500279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2122
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ff4ce2321fc4930800000000000000
+      internalID: 4128940091802714009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2102
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba486ec7bc6bc430800000000000000
+      internalID: 3804253846942272177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2054
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d6dfeda4a058d40800000000000000
+      internalID: 5585882229507976582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2046
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114fab7d4d0c431d0800000000000000
+      internalID: -3371858200608705519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2042
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d200245218fa23d00800000000000000
+      internalID: 951015440539320365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2011
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c511ee92a879ae0800000000000000
+      internalID: -1542612434658698098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2020
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469675d5b1b8348e0800000000000000
+      internalID: -1710370483824268956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1994
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4396a98804c34b0800000000000000
+      internalID: -5459417692829567788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1981
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7c8239262805d20800000000000000
+      internalID: 3265253089730938785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1984
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e22382d843a60d0800000000000000
+      internalID: -3428870385419801067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1964
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0de80a56a7e7cb0800000000000000
+      internalID: -4864315970609557261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1963
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae9f8e31789d2b40800000000000000
+      internalID: 5417153538944900781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1968
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbffe195a29cc2e80800000000000000
+      internalID: -8201959637627502660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1955
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c18acd16890a240800000000000000
+      internalID: 4801004748858203216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1949
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca36973e8a6529a80800000000000000
+      internalID: -8461605466504862804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1952
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b59a9f67c7413b0800000000000000
+      internalID: -5542668390949626993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1931
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67d3153f2574ea80800000000000000
+      internalID: -8438490956171061396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1903
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49162a4657db96870800000000000000
+      internalID: 8676674469003157908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1909
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476a7b904174cc800800000000000000
+      internalID: 633959798940345972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1889
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb11dbbf251195c0800000000000000
+      internalID: -4210560881856013381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1895
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8682432e6b62c5e0800000000000000
+      internalID: -1890830772760050035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1884
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44be331f947480210800000000000000
+      internalID: 1299366875401284420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1880
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397a67bb29030aed0800000000000000
+      internalID: -2404868794247370861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_26
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1864
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495d323b840cccc00800000000000000
+      internalID: 922323442179757460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1871
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4d44b8ff3eeff90800000000000000
+      internalID: -6917841290901793555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1858
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e048917111d827280800000000000000
+      internalID: -9047013596892396530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1861
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653f1fa317c281730800000000000000
+      internalID: 3969971936358953814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1840
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01277ef9f3e7bca60800000000000000
+      internalID: 7695383200023409168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1822
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3f5a87f8badcca0800000000000000
+      internalID: -5994946896267447392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1824
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf7eab6a85eb3710800000000000000
+      internalID: 1674184069173116842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_33
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1817
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62f14e1ab4f87450800000000000000
+      internalID: 6086883976599958122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1788
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc57cd2fa7ff29e30800000000000000
+      internalID: 4508947080476915147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_35
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1739
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fd204e283259a60800000000000000
+      internalID: 7680083784628363068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1740
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace0ae2659c7e5d40800000000000000
+      internalID: 5575030369782730442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1730
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29211706d0dc59b70800000000000000
+      internalID: 8905249295531315858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_38
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1710
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8705b04c569049f0800000000000000
+      internalID: -486223436789250166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1670
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57485ed31d01a5350800000000000000
+      internalID: 6006131543924638837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1671
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e56bebb84ce34b0800000000000000
+      internalID: -5458709593847341484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1659
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dc056294a0b7150800000000000000
+      internalID: 5871297848499293447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_42
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 70
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a51c3314ee22a30800000000000000
+      internalID: 4189172567216577116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_43
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c610859da6f2fa0800000000000000
+      internalID: -5823318311449826274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_44
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 61
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ac2558ecc376630800000000000000
+      internalID: 3920168858347031179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_45
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 65
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7e41d3371401c60800000000000000
+      internalID: 7786795718925412304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_46
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 60
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e9841f7bb5d62a0800000000000000
+      internalID: -6742632221518553541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_47
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 68
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4c199bfdc4f8a70800000000000000
+      internalID: 8831361918071588028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_48
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 62
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2fe0755fe5261e0800000000000000
+      internalID: -2206096459637525839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_49
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 67
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd14e6f0336a1200800000000000000
+      internalID: 151542599422057951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_50
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 70
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bac7c6b45fabf8d0800000000000000
+      internalID: -2811460763984082249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_51
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 67
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c7c676456054020800000000000000
+      internalID: 2325271742188911759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_52
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 68
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8638617ae874e5770800000000000000
+      internalID: 8601391016338424680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_53
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4bddbe95fb9f500800000000000000
+      internalID: 430585632320763077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_54
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 67
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f385217858772860800000000000000
+      internalID: 7505099625286960116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_55
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 64
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350c7a0136b10d5b0800000000000000
+      internalID: -5345742645393637293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_56
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 68
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29642e092adc27920800000000000000
+      internalID: 2986675600999204498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_57
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1bedc4bae712a90800000000000000
+      internalID: -7340446643443027509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_58
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 70
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e888c5481768ea3e0800000000000000
+      internalID: -2040545759042172786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_59
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b914da5cf9e7600800000000000000
+      internalID: 467987082657241985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_60
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 66
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12da69c271c7b9f0800000000000000
+      internalID: -452680538777791970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_61
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 68
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c6c49f88b564bb0800000000000000
+      internalID: -4952170096391066566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_62
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f58719346e494c0800000000000000
+      internalID: -4281544167844716790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_63
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 63
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780d0679839280fc0800000000000000
+      internalID: -3528524985010171769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_64
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 57
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d78667e6906a30c0800000000000000
+      internalID: -4595254268534552615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blow_65
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 53
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8840d237f27c45c20800000000000000
+      internalID: 3194397042322244744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blow_0: -4056532442272033861
+      blow_1: 4503212152300030586
+      blow_10: -5459417692829567788
+      blow_11: 3265253089730938785
+      blow_12: -3428870385419801067
+      blow_13: -4864315970609557261
+      blow_14: 5417153538944900781
+      blow_15: -8201959637627502660
+      blow_16: 4801004748858203216
+      blow_17: -8461605466504862804
+      blow_18: -5542668390949626993
+      blow_19: -8438490956171061396
+      blow_2: 3844548119948500279
+      blow_20: 8676674469003157908
+      blow_21: 633959798940345972
+      blow_22: -4210560881856013381
+      blow_23: -1890830772760050035
+      blow_24: 1299366875401284420
+      blow_25: -2404868794247370861
+      blow_26: 922323442179757460
+      blow_27: -6917841290901793555
+      blow_28: -9047013596892396530
+      blow_29: 3969971936358953814
+      blow_3: 4128940091802714009
+      blow_30: 7695383200023409168
+      blow_31: -5994946896267447392
+      blow_32: 1674184069173116842
+      blow_33: 6086883976599958122
+      blow_34: 4508947080476915147
+      blow_35: 7680083784628363068
+      blow_36: 5575030369782730442
+      blow_37: 8905249295531315858
+      blow_38: -486223436789250166
+      blow_39: 6006131543924638837
+      blow_4: 3804253846942272177
+      blow_40: -5458709593847341484
+      blow_41: 5871297848499293447
+      blow_42: 4189172567216577116
+      blow_43: -5823318311449826274
+      blow_44: 3920168858347031179
+      blow_45: 7786795718925412304
+      blow_46: -6742632221518553541
+      blow_47: 8831361918071588028
+      blow_48: -2206096459637525839
+      blow_49: 151542599422057951
+      blow_5: 5585882229507976582
+      blow_50: -2811460763984082249
+      blow_51: 2325271742188911759
+      blow_52: 8601391016338424680
+      blow_53: 430585632320763077
+      blow_54: 7505099625286960116
+      blow_55: -5345742645393637293
+      blow_56: 2986675600999204498
+      blow_57: -7340446643443027509
+      blow_58: -2040545759042172786
+      blow_59: 467987082657241985
+      blow_6: -3371858200608705519
+      blow_60: -452680538777791970
+      blow_61: -4952170096391066566
+      blow_62: -4281544167844716790
+      blow_63: -3528524985010171769
+      blow_64: -4595254268534552615
+      blow_65: 3194397042322244744
+      blow_7: 951015440539320365
+      blow_8: -1542612434658698098
+      blow_9: -1710370483824268956
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
