@@ -1,17 +1,23 @@
 fileFormatVersion: 2
-guid: 48b0fefc4a72a0f4387285d695ca3e0a
+guid: 3b39c6521dd757648875454a29c11a0e
 AssetOrigin:
   serializedVersion: 1
   productId: 235559
   packageName: Violet Themed UI
   packageVersion: 1.1
-  assetPath: Assets/Violet Theme Ui/Colored Icons/Settings.png
+  assetPath: Assets/Violet Theme Ui/White Icons/White Music Off.png
   uploadId: 700144
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7886631795410796208
-    second: Settings_0
+      213: -1150114452266369728
+    second: White Music Off_0
+  - first:
+      213: -8752463401625538187
+    second: White Music Off_1
+  - first:
+      213: -6848541731553986626
+    second: White Music Off_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -133,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Settings_0
+      name: White Music Off_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 0
-        width: 248
-        height: 256
+        x: 10
+        y: 11
+        width: 484
+        height: 484
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,8 +154,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0bef2cf25d1f27d60800000000000000
-      internalID: 7886631795410796208
+      spriteID: 04dbe9dcff8f900f0800000000000000
+      internalID: -1150114452266369728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Music Off_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 227
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571b084a8e0098680800000000000000
+      internalID: -8752463401625538187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Music Off_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 88
+        width: 308
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7394d849715f0a0800000000000000
+      internalID: -6848541731553986626
       vertices: []
       indices: 
       edges: []
@@ -168,7 +218,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Settings_0: 7886631795410796208
+      White Music Off_0: -1150114452266369728
+      White Music Off_1: -8752463401625538187
+      White Music Off_2: -6848541731553986626
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
